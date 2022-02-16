@@ -1,3 +1,4 @@
+import GlobalStyles from '../GlobalStyles.js';
 import Status from './Status.js';
 
 export default {
@@ -6,6 +7,7 @@ export default {
   decorators: [
     Story => (
       <div>
+        <GlobalStyles />
         <Story />
       </div>
     ),
