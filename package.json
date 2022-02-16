@@ -59,6 +59,7 @@
     "@storybook/react": "^6.4.19",
     "@storybook/testing-library": "^0.0.9",
     "prop-types": "^15.8.1",
+    "react-router-dom": "^6.2.1",
     "styled-components": "^5.3.3",
     "webpack": "^5.69.0"
   }
